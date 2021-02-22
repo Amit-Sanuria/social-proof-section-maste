@@ -1,0 +1,157 @@
+body{
+    width: max-content;
+}
+
+h1{
+    color: hsl(300, 43%, 22%);
+    font-size: 3.0rem;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 95px;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+
+}
+
+.description{
+    position: relative;
+    left: 95px;
+    bottom: 75px;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    color: hsl(303, 10%, 53%);
+    font-size: 15px;
+}
+
+.star1{
+    color: hsl(300, 43%, 22%);
+    background-color: hsl(300, 24%, 96%);
+    padding: 15px;
+    font-weight: 700;
+    width: max-content;
+    font-size: 15px;
+    display: inline-block;
+    position: absolute;
+    top: 22%;
+    left: 42%;
+    border-radius: 10px;
+}
+
+.star2{
+    color: hsl(300, 43%, 22%);
+    background-color: hsl(300, 24%, 96%);
+    padding: 15px;
+    font-weight: 700;
+    width: max-content;
+    font-size: 15px;
+    display: inline-block;
+    position: absolute;
+    top: 31%;
+    left: 45%;
+    border-radius: 10px;
+}
+
+.star3{
+    color: hsl(300, 43%, 22%);
+    background-color: hsl(300, 24%, 96%);
+    padding: 15px;
+    font-weight: 700;
+    width: max-content;
+    font-size: 15px;
+    display: inline-block;
+    position: absolute;
+    top: 40%;
+    left: 48%;
+    border-radius: 10px;
+    padding-right: 50px;
+
+}
+
+.rated{
+    display: inline-block;
+    margin: 0px 60px 0px 20px;
+    font-family: 'Spartan', sans-serif;
+}
+
+.colon{
+    background-color: hsl(300, 43%, 22%);
+    width: max-content;
+    padding: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top: 430px;
+}
+
+.irene{
+    background-color: hsl(300, 43%, 22%);
+    width: max-content;
+    padding: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    position: absolute;
+    left: 480px;
+    top: 450px;
+
+}
+
+.anne{
+    background-color: hsl(300, 43%, 22%);
+    width: max-content;
+    padding: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    position: absolute;
+    left: 860px;
+    top: 470px;
+
+}
+
+.info{
+    font-family: 'Spartan', sans-serif;
+    color: hsl(300, 24%, 96%);
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.pic{
+    border-radius: 100%;
+    width: 15%;
+    float: left;
+    margin-top: 10px;
+}
+
+.name{
+    display: inline-block;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 18px;
+    margin-bottom: 0px;
+    font-size: 11px;
+    color: hsl(0, 0%, 100%);
+}
+
+.verified{
+    display: inline-block;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+    margin-left: 18px;
+    font-size: 11px;
+    color: hsl(333, 80%, 67%);
+}
+.background2{
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 125px;
+}
+
+.attribution{
+    position: relative;
+    top: 280px;
+    left: 400px;
+}
